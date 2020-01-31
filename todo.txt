@@ -1,0 +1,63 @@
+To Do
+
+Att göra-lista för programmen
+=============================
+
+- Möjlighet att även lägga till adjektiv
+
+- Möjlighet att även lägga till adverb?
+
+- Objectifiering: skriv om programmen
+objektorienterat för mer modulariserad, 
+lättunderhållen och lättläslig kod.
+
+- Internationalisering: Hur fixa översättningsfiler etc
+i Java!? Hur göra programmen flerspråkiga?
+
+- ini-fil så man slipper skriva namn, signatur och e-postadress
+varje gång
+
+- ev. komprimera statiska filer tex stopplistorna?
+
+- ev. komprimera (och skicka?) filerna på slutet?
+
+-ev. HMAC på filerna (måste dela nyckel m resp. användare)
+Fördel: användaren kan bygga upp sitt anseende, pålitligt rykte
+
+- GUI
+
+CollectText
+-----------
+- Välja Windows- eller utf-8 fil!
+- Rensa html- och xml(Wordpress)-filer. KLART
+- Rensa även doc- och rtf-filer.
+- ev. senare gå över till att istället välja ut texten.
+
+OrdFrekvens
+-----------
+- utesluta alla former av befintliga ord: utnyttja Apertium KLART
+
+AddToDictionary
+---------------
+- lista de 5 vanligaste paradigmen först KLART
+- lista övriga paradigm i bokstavsordning
+- möjlighet att ändra tex bara paradigmet för ett ord
+(förutsätter "objektifiering" med get- och set-metoder)
+
+AddToBidix
+----------
+- möjlighet att ändra tex bara paradigmet för ett ord
+(förutsätter "objektifiering" med get- och set-metoder)
+
+AddToBidixFromRight
+-------------------
+- möjlighet att ändra tex bara paradigmet för ett ord
+(förutsätter "objektifiering" med get- och set-metoder)
+
+AddToBidixFromMonodix
+---------------------
+- 
+
+AddToDictionaryFromBidix
+------------------------
+- 

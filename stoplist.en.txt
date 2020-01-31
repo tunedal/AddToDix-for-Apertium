@@ -1,0 +1,850 @@
+an
+a
+another
+any
+any
+any
+any
+both
+both
+both
+each
+either
+every
+her
+her
+her
+her
+his
+his
+his
+his
+how many
+how much
+its
+its
+its
+its
+less
+little
+more
+more
+more
+more
+all
+all
+all
+all
+all
+most
+most
+most
+most
+much
+my
+my
+my
+my
+no
+other
+other
+other
+other
+same
+same
+same
+same
+our
+our
+our
+our
+ones
+ones
+ones
+ones
+several
+several
+several
+so much
+some
+some
+some
+some
+this
+these
+that
+those
+the
+the
+the
+the same
+the same
+the same
+the same
+their
+their
+their
+their
+too much
+enough
+enough
+enough
+enough
+enough
+various
+various
+various
+various
+various
+many
+many
+what
+what
+what
+what
+whatever
+which
+which
+which
+which
+your
+your
+your
+your
+fewer
+few
+most of
+most of
+most of
+most of
+the most
+the most
+the most
+the most
+a lot of
+a lot of
+a lot of
+a lot of
+so many
+too many
+a few
+as much
+lots of
+lots of
+lots of
+lots of
+quite a lot of
+quite a lot of
+quite a lot of
+quite a lot of
+such a
+such
+such
+such
+such
+I
+you
+he
+she
+it
+we
+they
+you
+you
+I
+you
+he
+she
+it
+we
+they
+me
+you
+him
+her
+it
+us
+them
+you
+you
+me
+you
+him
+her
+it
+us
+them
+myself
+yourself
+herself
+himself
+itself
+oneself
+ourselves
+yourselves
+themselves
+all
+much
+another
+another one
+any
+any one
+anybody
+anyone
+anything
+both
+each
+either
+everybody
+everyone
+everything
+many
+few
+how many
+how much
+most
+no one
+nobody
+none
+nothing
+one
+ones
+others
+several
+some
+somebody
+someone
+something
+this
+these
+that
+those
+mine
+mine
+mine
+mine
+mine
+mine
+yours
+yours
+yours
+yours
+yours
+yours
+his
+his
+his
+his
+his
+his
+hers
+hers
+hers
+hers
+hers
+hers
+its
+its
+its
+its
+its
+its
+ours
+ours
+ours
+ours
+ours
+ours
+ones
+ones
+ones
+ones
+ones
+ones
+theirs
+theirs
+theirs
+theirs
+theirs
+theirs
+what
+whatever
+which
+which one
+who
+that
+the one who
+the one which
+the ones who
+the ones that
+those who
+those that
+the one
+the ones
+what
+where
+which
+which
+who
+whom
+of which
+'s
+about
+than
+plus
+in the amount of
+above
+according
+according to
+after
+against
+past
+along
+thereupon
+thereof
+head off
+along with
+along with
+in connection with
+amid
+among
+amongst
+around
+as
+as a
+as a result of
+as for
+as regards
+at
+at the time of
+out at
+at the expense of
+because of
+because of
+before
+behind
+beside
+opposite
+facing
+between
+between
+half way between
+but
+by
+by means of
+concerning
+despite
+due to
+during
+except
+except for
+for
+from
+in response to
+in
+up in
+in accordance with
+in addition to
+in compliance with
+in front of
+in the middle of
+in excess of
+in regard to
+in spite of
+in view of
+instead of
+into
+like
+near
+of
+on
+on top of
+onto
+out
+inside
+out of
+out of
+outside
+over
+per
+regarding
+round
+since
+so as to
+such as
+thanks to
+throughout
+through
+next to
+out from
+straight through
+to
+to
+together with
+towards
+under
+until
+up
+up to
+upon
+with
+with
+with a view to
+within
+without
+ahead of
+around the middle of
+at about
+by dint of
+in pursuit of
+right in front of
+in order to
+in order to
+to
+with
+I'm
+you're
+she's
+he's
+it's
+we're
+they're
+I'll
+you'll
+she'll
+he'll
+it'll
+we'll
+they'll
+I've
+you've
+she's
+he's
+they've
+I've got
+you've got
+she's got
+he's got
+it's got
+we've got
+they've got
+I'd
+you'd
+she'd
+he'd
+it'd
+we'd
+they'd
+I'd
+you'd
+she'd
+he'd
+it'd
+we'd
+they'd
+can't
+couldn't
+don't
+doesn't
+didn't
+isn't
+wasn't
+wasn't
+weren't
+wouldn't
+hasn't
+haven't
+hadn't
+aren't
+ain't
+cannot
+shouldn't
+shan't
+won't
+there's
+there's
+there're
+who's
+who's
+would've
+should've
+could've
+wanna
+gonna
+that's
+have
+have
+has
+had
+having
+having
+having
+had
+have
+have
+has
+had
+having
+having
+having
+do
+does
+did
+can
+could
+can
+can
+could
+be able to
+are able to
+am able to
+is able to
+was able to
+was able to
+were able to
+been able to
+being able to
+being able to
+being able to
+have to
+have to
+has to
+had to
+had to
+having to
+having to
+having to
+want to
+want to
+wants to
+wanted to
+wanted to
+wanting to
+wanting to
+wanting to
+will
+shall
+would
+must
+should
+may
+might
+be
+are
+am
+is
+was
+was
+were
+been
+being
+being
+being
+be
+are
+am
+is
+was
+was
+were
+been
+being
+being
+being
+go out
+go out
+goes out
+went out
+gone out
+going out
+going out
+going out
+go and get drunk
+go and get drunk
+goes and get drunk
+went and get drunk
+gone and get drunk
+going and get drunk
+going and get drunk
+going and get drunk
+go berserk
+go berserk
+goes berserk
+went berserk
+gone berserk
+going berserk
+going berserk
+going berserk
+go on strike
+go on strike
+goes on strike
+went on strike
+gone on strike
+going on strike
+going on strike
+going on strike
+be born
+are born
+am born
+is born
+was born
+was born
+were born
+been born
+being born
+being born
+being born
+be of use
+are of use
+am of use
+is of use
+was of use
+was of use
+were of use
+been of use
+being of use
+being of use
+being of use
+be at war
+are at war
+am at war
+is at war
+was at war
+was at war
+were at war
+been at war
+being at war
+being at war
+being at war
+be damned
+are damned
+am damned
+is damned
+was damned
+was damned
+were damned
+been damned
+being damned
+being damned
+being damned
+be reborn
+are reborn
+am reborn
+is reborn
+was reborn
+was reborn
+were reborn
+been reborn
+being reborn
+being reborn
+being reborn
+be shocked
+are shocked
+am shocked
+is shocked
+was shocked
+was shocked
+were shocked
+been shocked
+being shocked
+being shocked
+being shocked
+be stuck
+are stuck
+am stuck
+is stuck
+was stuck
+was stuck
+were stuck
+been stuck
+being stuck
+being stuck
+being stuck
+be able to
+are able to
+am able to
+is able to
+was able to
+was able to
+were able to
+been able to
+being able to
+being able to
+being able to
+be allowed to
+are allowed to
+am allowed to
+is allowed to
+was allowed to
+was allowed to
+were allowed to
+been allowed to
+being allowed to
+being allowed to
+being allowed to
+be bleeding to death
+are bleeding to death
+am bleeding to death
+is bleeding to death
+was bleeding to death
+was bleeding to death
+were bleeding to death
+been bleeding to death
+being bleeding to death
+being bleeding to death
+being bleeding to death
+be ready to go
+are ready to go
+am ready to go
+is ready to go
+was ready to go
+was ready to go
+were ready to go
+been ready to go
+being ready to go
+being ready to go
+being ready to go
+be called
+are called
+am called
+is called
+was called
+was called
+were called
+been called
+being called
+being called
+being called
+be hungry
+are hungry
+am hungry
+is hungry
+was hungry
+was hungry
+were hungry
+been hungry
+being hungry
+being hungry
+being hungry
+be consistent
+are consistent
+am consistent
+is consistent
+was consistent
+was consistent
+were consistent
+been consistent
+being consistent
+being consistent
+being consistent
+be adrift
+are adrift
+am adrift
+is adrift
+was adrift
+was adrift
+were adrift
+been adrift
+being adrift
+being adrift
+being adrift
+go down
+go down
+goes down
+went down
+gone down
+going down
+going down
+going down
+be worth
+are worth
+am worth
+is worth
+was worth
+was worth
+were worth
+been worth
+being worth
+being worth
+being worth
+be left
+are left
+am left
+is left
+was left
+was left
+were left
+been left
+being left
+being left
+being left
+be missing
+are missing
+am missing
+is missing
+was missing
+was missing
+were missing
+been missing
+being missing
+being missing
+being missing
+be a member of
+are a member of
+am a member of
+is a member of
+was a member of
+was a member of
+were a member of
+been a member of
+being a member of
+being a member of
+being a member of
+go in
+go in
+goes in
+went in
+gone in
+going in
+going in
+going in
+go on
+go on
+goes on
+went on
+gone on
+going on
+going on
+going on
+go on
+go on
+goes on
+went on
+gone on
+going on
+going on
+going on
+go back
+go back
+goes back
+went back
+gone back
+going back
+going back
+going back
+go through
+go through
+goes through
+went through
+gone through
+going through
+going through
+going through
+go up
+go up
+goes up
+went up
+gone up
+going up
+going up
+going up

@@ -1,0 +1,7 @@
+"Microsoft FrontPage 4.0"
+"author"
+"description"
+"keywords"
+"useless_piece_of_crap"
+<?php
+?>

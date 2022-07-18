@@ -22,20 +22,24 @@ jobs:
         run: javac -encoding windows-1252 ./*.java
 
       - name: Bundle release files in zip
+        id: bundle
         run: |
+          REV="$(git rev-parse --short "$GITHUB_SHA")"
+          BUILD_ID="$(date '+%Y%m%dT%H%M%S')-$REV"
+          BUNDLE_FILENAME="AddToDix-${BUILD_ID}.zip"
           find . -name '.??*' -prune -or \
             -type f -regextype egrep \
             -regex '.*\.(java|class|mf|md|txt|dix)$' -print \
-            | zip -@ release.zip
+            | zip -@ "${BUNDLE_FILNAME}"
+          echo '::set-output name=BUILD_ID::'"${BUILD_ID}"
+          echo '::set-output name=BUNDLE_FILENAME::'"${BUNDLE_FILENAME}"
 
       - name: Create GitHub release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          REV="$(git rev-parse --short "$GITHUB_SHA")"
-          TAG="release-$(date '+%Y%m%dT%H%M%S')-$REV"
           hub release create \
             -m "Release $REV" \
             -t "$GITHUB_SHA" \
-            -a "release.zip" \
-            "$TAG"
+            -a "${{ steps.bundle.outputs.BUNDLE_FILENAME }}" \
+            "release-${{ steps.bundle.outputs.BUILD_ID }}"

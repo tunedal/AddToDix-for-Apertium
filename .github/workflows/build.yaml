@@ -26,5 +26,8 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           REV="$(git rev-parse --short "$GITHUB_SHA")"
-          hub release create -m "Revision $REV" \
-            "$(date '+%Y%m%dT%H%M%S')-$REV"
+          TAG="release-$(date '+%Y%m%dT%H%M%S')-$REV"
+          hub release create \
+            -m "Release $REV" \
+            -t "$GITHUB_SHA" \
+            -i '*.java' -i '*.class'

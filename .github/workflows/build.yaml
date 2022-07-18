@@ -21,7 +21,14 @@ jobs:
       - name: Build with javac
         run: javac -encoding windows-1252 ./*.java
 
-      - name: Create release
+      - name: Bundle release files in zip
+        run: |
+          find . -name '.??*' -prune -or \
+            -type f -regextype egrep \
+            -regex '.*\.(java|class|mf|md|txt|dix)$' -print \
+            | zip -@ release.zip
+
+      - name: Create GitHub release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
@@ -30,4 +37,5 @@ jobs:
           hub release create \
             -m "Release $REV" \
             -t "$GITHUB_SHA" \
-            -i '*.java' -i '*.class'
+            -a "release-$REV.zip" \
+            "$TAG"

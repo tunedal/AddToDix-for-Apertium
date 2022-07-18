@@ -28,7 +28,7 @@ jobs:
         id: bundle
         shell: bash
         run: |
-          INCLUDE_FILE_TYPES='class|mf|md|txt|dix'
+          INCLUDE_FILE_TYPES='class|md|txt|dix'
           REV="$(git rev-parse --short "$GITHUB_SHA")"
           BUILD_ID="$(date '+%Y%m%dT%H%M%S')-$REV"
           BUNDLE_FILENAME="AddToDix-${BUILD_ID}.zip"

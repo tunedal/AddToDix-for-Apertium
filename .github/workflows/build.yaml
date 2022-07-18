@@ -37,5 +37,5 @@ jobs:
           hub release create \
             -m "Release $REV" \
             -t "$GITHUB_SHA" \
-            -a "release-$REV.zip" \
+            -a "release.zip" \
             "$TAG"

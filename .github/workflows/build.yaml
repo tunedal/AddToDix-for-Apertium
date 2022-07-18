@@ -42,9 +42,10 @@ jobs:
       - name: Create GitHub release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BUILD_ID: ${{ steps.bundle.outputs.BUILD_ID }}
         run: |
           hub release create \
             -m "Build ${BUILD_ID}" \
             -t "$GITHUB_SHA" \
             -a "${{ steps.bundle.outputs.BUNDLE_FILENAME }}" \
-            "release-${{ steps.bundle.outputs.BUILD_ID }}"
+            "release-${BUILD_ID}"

@@ -40,7 +40,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           hub release create \
-            -m "Release $REV" \
+            -m "Build ${BUILD_ID}" \
             -t "$GITHUB_SHA" \
             -a "${{ steps.bundle.outputs.BUNDLE_FILENAME }}" \
             "release-${{ steps.bundle.outputs.BUILD_ID }}"

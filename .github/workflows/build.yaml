@@ -24,6 +24,7 @@ jobs:
       - name: Create release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: >
-          hub release create -m "Automatic build"
-          "$(date '+%Y%m%dT%H%M%S')"
+        run: |
+          REV="$(git rev-parse --short "$GITHUB_SHA")"
+          hub release create -m "Revision $REV" \
+            "$(date '+%Y%m%dT%H%M%S')-$REV"

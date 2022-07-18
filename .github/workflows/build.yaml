@@ -6,6 +6,9 @@ jobs:
   build:
     runs-on: ubuntu-latest
 
+    permissions:
+      content: write
+
     steps:
       - uses: actions/checkout@v3
 
@@ -19,8 +22,6 @@ jobs:
         run: javac -encoding windows-1252 ./*.java
 
       - name: Create release
-        env:
-          GITHUB_TOKEN: ${{ secrets.RELEASE_TOKEN }}
         run: >
           hub release create -m "Automatic build"
           "$(date '+%Y%m%dT%H%M%S')"
